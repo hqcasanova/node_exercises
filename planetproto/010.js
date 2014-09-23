@@ -1,6 +1,6 @@
 // -> Create an object called 'robot' using an object literal
 // -> robot should have a property 'smart' with value true
-robot = {
+var robot = {
   smart: true
 };
 

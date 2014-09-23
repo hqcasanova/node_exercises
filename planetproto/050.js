@@ -3,9 +3,9 @@
 //    empty array `[]`
 // -> In the definition of machine set a property 'capabilities', set it to 
 //    an empty object `{}`
-robot = {};
-vehicle = {};
-machine = {
+var robot = {};
+var vehicle = {};
+var machine = {
   parts: [],
   capabilities: {}
 };

@@ -1,8 +1,8 @@
 // -> Define three objects: 'machine', 'robot' and 'vehicle'
 //    In the definition of machine add a property 'motors' set to null.
-robot = {};
-vehicle = {};
-machine = {
+var robot = {};
+var vehicle = {};
+var machine = {
   motors: null
 };
 

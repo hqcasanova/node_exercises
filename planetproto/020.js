@@ -11,7 +11,7 @@ robot = {
 };
 
 // -> Create a robby object
-robby = {};
+var robby = {};
 
 // -> Make machine the prototype of robot
 robot.__proto__ = machine;
